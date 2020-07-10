@@ -1,0 +1,9 @@
+we used push buttons as sensors.
+
+HOW and WHY? 
+
+by attaching a bar above the lane at 40 cm, then adding 3 sticks with different lengths 15cm, 25cm, and 35 cm.
+ once the box passes under the bar it will move the stick forward while it's attaching with the bar the stick will bend
+ a little bit and allowing us to know what the dimensions of the box are. 
+10x10 box will move the longest stick (35 cm), 20x20 box will move both the longest and the middle stick,
+ and 30x30 box will move all sticks.
